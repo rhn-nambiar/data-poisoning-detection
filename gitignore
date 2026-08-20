@@ -1,0 +1,13 @@
+# Data files (not included in repo)
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# OS
+.DS_Store
